@@ -41,3 +41,28 @@ myNeighborDog.furColor
 myNeighborDog.name
 myNeighborDog.whoownsit
 ```
+## Struct
+You can create a class and change to a struct with no issue, the other way around is not possible.<br>
+![Screenshot 2024-03-12 at 5 22 57 AM](https://github.com/danielurra/Swift-UI-Classes-and-Structs/assets/51704179/59c1dd9e-2371-49bc-992f-2ff785ee7348)<br>
+## Grab the code
+```swift
+// CLASS
+class Car {
+    var yearsOfOwnership = 0
+    var color = ""
+}
+var jeepRojo = Car() // first instance of the class
+jeepRojo.yearsOfOwnership = 5
+jeepRojo.color = "red"
+
+jeepRojo.yearsOfOwnership
+jeepRojo.color
+
+// STRUCT
+struct Truck {
+    var year: Int
+    var color: String
+}
+Truck(year: 1992, color: "White")
+```
+

@@ -3,10 +3,6 @@ SwiftUI Classes and Structs, Object Oriented Programming concepts
 ![Screenshot 2024-03-12 at 5 12 53 AM](https://github.com/danielurra/Swift-UI-Classes-and-Structs/assets/51704179/becaa5e3-9a72-40ec-936b-6e5a8fad755f)<br>
 ## Grab the code
 ```swift
-// Multiple cursors
-// same column Press and Hold OPTIONS key then drag using your Mouse
-// Different columns Shift + Ctrl + Click(mouse)
-// Different columns Shift + Ctrl + UP/DOWN arrows
 // CLASS
 class Car {
     var yearsOfOwnership = 0

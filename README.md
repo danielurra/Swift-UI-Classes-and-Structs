@@ -46,6 +46,8 @@ myNeighborDog.whoownsit
 ## Struct
 You can create a class and change to a struct with no issue, the other way around is not possible.<br>
 ![Screenshot 2024-03-12 at 5 22 57 AM](https://github.com/danielurra/Swift-UI-Classes-and-Structs/assets/51704179/59c1dd9e-2371-49bc-992f-2ff785ee7348)<br>
+![Screenshot 2024-03-12 at 5 39 51 AM](https://github.com/danielurra/Swift-UI-Classes-and-Structs/assets/51704179/01849d29-f3b1-4b65-a078-aa64aafd723d)<br>
+
 ## Grab the code
 ```swift
 // CLASS

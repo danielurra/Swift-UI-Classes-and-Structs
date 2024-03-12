@@ -1,5 +1,7 @@
 # SwiftUI Classes & Structs
-SwiftUI Classes and Structs, Object Oriented Programming concepts
+SwiftUI Classes and Structs, Object Oriented Programming concepts.<br>
+I'm using XCode `Playground` that has the **Autorun** feature that shows you the results<br>
+of your code in the column located at the right.<br>
 ![Screenshot 2024-03-12 at 5 12 53 AM](https://github.com/danielurra/Swift-UI-Classes-and-Structs/assets/51704179/becaa5e3-9a72-40ec-936b-6e5a8fad755f)<br>
 ## Grab the code
 ```swift
